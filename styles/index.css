@@ -1,0 +1,30 @@
+body {
+  padding: 20px;
+}
+
+header {
+  border-bottom: 1px solid;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.site-navigation li {
+  margin-right: 8px;
+}
+
+.external-navigation li {
+  margin-left: 8px;
+}
+
+footer {
+  border-top: 1px solid;
+}
