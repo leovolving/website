@@ -1,7 +1,7 @@
 [
     {
         "title": "5 Advantages of Telecommuting",
-        "slug": "5-advantages-telecommuting",
+        "href": "5-advantages-telecommuting",
         "date": "2020-04-01T01:24:35.344Z",
         "description": "More people are telecommuting than ever before. Increased productivity and inclustion are just a few of the benefits. Read here to find out more.",
         "tags": ["career", "personal", "advice"],
@@ -9,7 +9,7 @@
     },
     {
         "title": "On Breaking Convention",
-        "slug": "breaking-convention",
+        "href": "breaking-convention",
         "date": "2020-10-17T01:10:14.508Z",
         "description": "Excerpt from an essay reflecting on authenticity and assimilation",
         "tags": ["personal", "essay", "mental-health"],
@@ -17,7 +17,7 @@
     },
     {
         "title": "How to Stop 'Doomscrolling,' For Real",
-        "slug": "how-to-stop-doomscrolling",
+        "href": "how-to-stop-doomscrolling",
         "date": "2020-07-24T18:44:35.344Z",
         "description": "You already know that doomscrolling is bad. Are you ready to stop?",
         "tags": ["personal", "advice", "mental-health"],
@@ -25,7 +25,7 @@
     },
     {
         "title": "Transgender Employee - From Vulnerable to Exploited",
-        "slug": "trans-tech-trauma",
+        "href": "trans-tech-trauma",
         "date": "2020-06-26T17:55:55.344Z",
         "description": "I'm transgender. Sometimes this makes me more vulnerable than my Blackness does. At least it did at my first tech job.",
         "tags": ["coding", "technical", "race", "gender", "personal", "black-in-tech"],
@@ -33,7 +33,7 @@
     },
     {
         "title": "How to Get Interviews As a Self-Taught (or Bootcamp) Developer",
-        "slug": "how-to-get-tech-interviews",
+        "href": "how-to-get-tech-interviews",
         "date": "2020-07-16T20:45:55.344Z",
         "description": "We have to do more than apply.",
         "tags": ["coding", "technical", "career", "advice"],
@@ -41,7 +41,7 @@
     },
     {
         "title": "Black in Tech - Was My Salary Fair? No.",
-        "slug": "black-in-tech-pay-disparity",
+        "href": "black-in-tech-pay-disparity",
         "date": "2020-06-19T20:24:35.344Z",
         "description": "Technology was supposed to be the great equalizer. It hasn't happened.",
         "tags": ["coding", "technical", "race", "personal", "black-in-tech"],
@@ -49,7 +49,7 @@
     },
     {
         "title": "The Ultimate Guide to Being Productive at Home",
-        "slug": "ultimate-guide-productive-at-home",
+        "href": "ultimate-guide-productive-at-home",
         "date": "2020-04-28T19:36:21.365Z",
         "description": "Do you want to do more from home? The following 6 tips are for anyone who wants to be more productive, whether it be with work, school, chores, or hobbies.",
         "tags": ["career", "personal", "advice"],
@@ -57,7 +57,7 @@
     },
     {
         "title": "Perhaps This is Why I Read",
-        "slug": "why-i-read",
+        "href": "why-i-read",
         "date": "2020-11-05T17:40:00.699Z",
         "description": "This morning, I finished my 40th book of 2020. I’ve officially doubled the goal I set for myself at the beginning of the year. But why?",
         "tags": ["personal", "essay", "books"],
