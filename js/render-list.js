@@ -12,7 +12,6 @@ const renderList = (data, type) => {
 
     const a = createElement("a");
     a.innerText = item.title;
-    a.href = item.href;
 
     const li = createElement("li");
     li.appendChild(a);
@@ -25,7 +24,9 @@ const renderList = (data, type) => {
       const p = createElement("p");
       p.innerText = item.tags.join(" | ");
       li.appendChild(p);
-    }
+
+      a.href = `../blog/${item.href}.html`;
+    } else a.href = item.href;
 
     ul.appendChild(li);
   }
