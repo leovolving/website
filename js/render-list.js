@@ -36,8 +36,5 @@ const renderList = (data, type) => {
 };
 
 const fetchList = (type) => {
-  fetch(`/js/${type}.json`)
-    .then((response) => response.json())
-    .then((data) => renderList(data, type))
-    .catch((error) => console.log(error));
+  renderList(lists[type], type);
 };
