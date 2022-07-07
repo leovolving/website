@@ -102,4 +102,6 @@ const blog = [
   },
 ];
 
+blog.sort((a, b) => a.date - b.date).reverse();
+
 const lists = { blog, link };
